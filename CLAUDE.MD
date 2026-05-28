@@ -7,7 +7,7 @@ SIEMPRE lee los Brain Files relevantes ANTES de escribir código. SIEMPRE lee la
 # Prohibiciones
 - NUNCA instales dependencias sin aprobación.
 - NUNCA modifiques archivos en .agents/brain/
-- NUNCA hagas push directo a main o develop
+- NUNCA hagas push directo a main, master o develop.
 - NUNCA uses 'any' como tipo en TypeScript.
 - NUNCA expongas Entities de ORM en endpoints
 - NUNCA escribas lógica de negocio en controladores

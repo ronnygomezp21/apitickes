@@ -1,0 +1,26 @@
+{
+  "name": "api-tickets",
+  "version": "1.0.0",
+  "description": "servicios para gestionar tickets de soporte tecnico",
+  "keywords": [
+    "geminis",
+    "cloude",
+    "typescript",
+    "specs"
+  ],
+  "homepage": "https://github.com/ronnygomezp21/apitickes#readme",
+  "bugs": {
+    "url": "https://github.com/ronnygomezp21/apitickes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnygomezp21/apitickes.git"
+  },
+  "license": "ISC",
+  "author": "Ronny Gomez Peñafiel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,13 @@
+# Indexar (el agente puede leerlos)
+.agents/**/*.md
+docs/specs/**/*.md
+src/**/*.ts
+tests/**/*.ts
+
+# Ignorar (no contaminar el contexto)
+node_modules/
+dist/
+coverage/
+.git/
+*.log
+*.map
